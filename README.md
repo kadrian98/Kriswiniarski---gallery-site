@@ -1,5 +1,5 @@
 # One page Portfolio Website (HTML CSS Project for Ppractice)
-![Watch Now](./img/Design.jpg)
+![Watch Now]
 ## Watch The Complete Tutorial ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/ZFQkb26UD1Y   
 
 
